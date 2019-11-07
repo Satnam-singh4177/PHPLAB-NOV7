@@ -13,5 +13,5 @@ $array =array(
   //var_dump($array);
    echo $array["foo"];
   ?>
-<body>
-<html>
+</body>
+</html>

@@ -8,5 +8,5 @@ $animals =["cat","dog","tigar","deer"];
    //print_r($numbers);
   echo $animals[3];
   ?>
-<body>
-<html>
+</body>
+</html>
